@@ -1,1 +1,1 @@
-# safani-m60-v2
+# safani-m60
